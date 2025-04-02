@@ -1,2 +1,2 @@
 # eer-os-oficina
-Diagrama EER para odelagem de dados de OS de uma oficina de carros
+Diagrama EER para modelagem de dados de OS de uma oficina de carros
